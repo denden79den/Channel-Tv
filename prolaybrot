@@ -373,6 +373,19 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=811939&e
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1459665.png" group-title="BE| SPORTS",BE| PLAY SPORTS 4 HD
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1459665&extension=ts&play_token=exUBHgeJ8k
 
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282750.png" group-title="NL| SPORT",NL| ZIGGO SPORT FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1282750&extension=ts&play_token=MUfKetjP9D
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282748.png" group-title="NL| SPORT",NL| ZIGGO SPORT 2 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1282748&extension=ts&play_token=7Fo0LpaTNr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282746.png" group-title="NL| SPORT",NL| ZIGGO SPORT 3 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1282746&extension=ts&play_token=69WzvNHNtj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282745.png" group-title="NL| SPORT",NL| ZIGGO SPORT 4 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1282745&extension=ts&play_token=s3wYgWVrQu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282747.png" group-title="NL| SPORT",NL| ZIGGO SPORT 5 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1282747&extension=ts&play_token=mexf1Xd0Oz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282744.png" group-title="NL| SPORT",NL| ZIGGO SPORT 6 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1282744&extension=ts&play_token=A2GBAHYxa8
+
 
 
 
