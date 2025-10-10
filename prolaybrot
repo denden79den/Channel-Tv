@@ -330,6 +330,49 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1903778&
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1903777&extension=ts&play_token=6shgEh8WEs
 
 
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530206.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT 1 RAW
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1530206&extension=ts&play_token=o5nzn6QTYM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530207.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT 2 RAW
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1530207&extension=ts&play_token=jLQNSgDM2y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530208.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT 3 RAW
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1530208&extension=ts&play_token=7c2XPyAnCY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530209.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT FIGHT RAW
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1530209&extension=ts&play_token=6OWzU4jWZm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530210.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT PREMIUM 1 RAW
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1530210&extension=ts&play_token=vllbVIc6hL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530211.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT PREMIUM 2 RAW
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1530211&extension=ts&play_token=IT79t3XQRb
+
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207916.png" group-title="RO| CANALE DE SPORT",RO|  DIGI SPORT 1 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=207916&extension=ts&play_token=3f6DjROUFI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207917.png" group-title="RO| CANALE DE SPORT",RO|  DIGI SPORT 2 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=207917&extension=ts&play_token=7nfLOeOZlz
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207963.png" group-title="RO| CANALE DE SPORT",RO|  DIGI SPORT 3 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=207963&extension=ts&play_token=tnzQoFvY4H
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/207964.png" group-title="RO| CANALE DE SPORT",RO|  DIGI SPORT 4 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=207964&extension=ts&play_token=vB3X42XjAA
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208006.png" group-title="RO| CANALE DE SPORT",RO| PRIMA SPORT 1 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=208006&extension=ts&play_token=TTb4GkMhbV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208007.png" group-title="RO| CANALE DE SPORT",RO| PRIMA SPORT 2 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=208007&extension=ts&play_token=720U3P8dzY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/208009.png" group-title="RO| CANALE DE SPORT",RO| PRIMA SPORT 3 FHD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=208009&extension=ts&play_token=Si0EgXqhH6
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/92486.png" group-title="RO| CANALE DE SPORT",RO| PRIMA SPORT 4 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=92486&extension=ts&play_token=MMRxamBiOL
+
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/931400.png" group-title="BE| SPORTS",BE| PLAY SPORTS PL HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=931400&extension=ts&play_token=p9wpiGttE9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/811941.png" group-title="BE| SPORTS",BE| PLAY SPORTS 1 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=811941&extension=ts&play_token=oBWL8IXzNA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/811940.png" group-title="BE| SPORTS",BE| PLAY SPORTS 2 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=811940&extension=ts&play_token=AogLebaXP3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/811939.png" group-title="BE| SPORTS",BE| PLAY SPORTS 3 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=811939&extension=ts&play_token=VfdWXxzaND
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1459665.png" group-title="BE| SPORTS",BE| PLAY SPORTS 4 HD
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1459665&extension=ts&play_token=exUBHgeJ8k
+
 
 
 
