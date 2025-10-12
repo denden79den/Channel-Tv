@@ -5,6 +5,3 @@
 # --- FHD (utama + cadangan) ---
 #EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=1920x1080,NAME="FHD"
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444214.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=9500000,RESOLUTION=1920x1080,NAME="FHD-Backup"
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-
