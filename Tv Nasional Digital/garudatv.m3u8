@@ -1,10 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
 
-# --- FHD---
+# --- FHD (utama + cadangan) ---
 #EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=1920x1080,NAME="FHD"
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444214.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=9500000,RESOLUTION=1920x1080,NAME="FHD-Backup"
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-# --- HD---
+# --- HD (otomatis fallback juga bisa manual dipilih) ---
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1280x720,NAME="HD"
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4800000,RESOLUTION=1280x720,NAME="HD-Backup"
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444214.m3u8
