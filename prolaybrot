@@ -421,6 +421,21 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=554944&extens
 http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=554943&extension=ts&play_token=GoFw8VARSK
 
 
+#EXTINF:-1 tvg-id="PL—VIP| POLSAT SPORT 1 RAW" tvg-logo="http://103.176.90.92/images/1530206.png" group-title="SPORT | VIP 1" tvg-name="PL—VIP| POLSAT SPORT 1 RAW",PL—VIP| POLSAT SPORT 1 RAW
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1530206&extension=ts&play_token=XfHj89yTSq
+#EXTINF:-1 tvg-id="PL—VIP| POLSAT SPORT 2 RAW" tvg-logo="http://103.176.90.92/images/1530207.png" group-title="SPORT | VIP 1" tvg-name="PL—VIP| POLSAT SPORT 2 RAW",PL—VIP| POLSAT SPORT 2 RAW
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1530207&extension=ts&play_token=QCgNGyZWmu
+#EXTINF:-1 tvg-id="PL—VIP| POLSAT SPORT 3 RAW" tvg-logo="http://103.176.90.92/images/1530208.png" group-title="SPORT | VIP 1" tvg-name="PL—VIP| POLSAT SPORT 3 RAW",PL—VIP| POLSAT SPORT 3 RAW
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1530208&extension=ts&play_token=B5DeFwi1Y7
+#EXTINF:-1 tvg-id="PL—VIP| POLSAT SPORT FIGHT RAW" tvg-logo="http://103.176.90.92/images/1530209.png" group-title="SPORT | VIP 1" tvg-name="PL—VIP| POLSAT SPORT FIGHT RAW",PL—VIP| POLSAT SPORT FIGHT RAW
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1530209&extension=ts&play_token=SqA8NGb5oN
+#EXTINF:-1 tvg-id="PL—VIP| POLSAT SPORT PREMIUM 1 RAW" tvg-logo="http://103.176.90.92/images/1530210.png" group-title="SPORT | VIP 1" tvg-name="PL—VIP| POLSAT SPORT PREMIUM 1 RAW",PL—VIP| POLSAT SPORT PREMIUM 1 RAW
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1530210&extension=ts&play_token=CFDsHWWtwq
+#EXTINF:-1 tvg-id="PL—VIP| POLSAT SPORT PREMIUM 2 RAW" tvg-logo="http://103.176.90.92/images/1530211.png" group-title="SPORT | VIP 1" tvg-name="PL—VIP| POLSAT SPORT PREMIUM 2 RAW",PL—VIP| POLSAT SPORT PREMIUM 2 RAW
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1530211&extension=ts&play_token=bcIkMk83oA
+#EXTINF:-1 tvg-id="PL—VIP| POLSAT SPORT PREMIUM PPV3 RAW" tvg-logo="http://103.176.90.92/images/1530212.png" group-title="SPORT | VIP 1" tvg-name="PL—VIP| POLSAT SPORT PREMIUM PPV3 RAW",PL—VIP| POLSAT SPORT PREMIUM PPV3 RAW
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1530212&extension=ts&play_token=pjNrpDdNEM
+
 
 
 
