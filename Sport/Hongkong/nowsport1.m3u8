@@ -5,4 +5,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=7300000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1920x1020,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://media.cloudbrit.com:8080/Dani12/Dani12/1846417.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=554949&extension=ts&play_token=GHavgOu1KW
