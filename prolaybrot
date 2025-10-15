@@ -114,16 +114,20 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/M
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/arenabola2fhd.png",804 Arena Bola 2 FHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",805 Premier League FHD
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/premierleague1.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/premierleague1.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=571245&extension=ts&play_token=cbKfH7ygTR
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/premierleague2fhd.png",806 Premier League 2 FHD
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/premierleague2.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/premierleague2.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=571248&extension=ts&play_token=dw5Rwyo9ou
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/grandstandfhd.png",807 Grandstand FHD
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/grandstand.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/grandstand.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=571247&extension=ts&play_token=ekEDFHedwQ
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png",808 Football FHD
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/football.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Malaysia/football.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=571246&extension=ts&play_token=zXJbJIuLQR
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/badmintonfhd.png",809 Badminton FHD
 
