@@ -136,7 +136,8 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=571246&extens
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/cricketfhd.png",812 Cricket FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Astrocricket.m3u8
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Astrocricket.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1903791&extension=ts&play_token=yqdEXkVzBE
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",813 Bein1 FHD
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
