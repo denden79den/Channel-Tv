@@ -561,7 +561,8 @@ https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport5-1.m3u8?raw=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="SPORT | VIP 1",TRUE SPORT 7
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport7-1.m3u8?raw=true
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="SPORT | VIP 1",HUb Sport 1
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/Hongkong/hubsport1.m3u8
 
 
 
