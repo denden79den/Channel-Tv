@@ -140,11 +140,15 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=571246&extens
 http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1903791&extension=ts&play_token=yqdEXkVzBE
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",813 Bein1 FHD
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+##https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1903783&extension=ts&play_token=AAGwTJay8Q
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png",814 Bein2 FHD
 https://wahyu1ptv.pages.dev/AstroBein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS | Malaysia" tvg-logo="https://get.perfecttv.net/logo/bein3fhd.png",815 Bein3 FHD
-https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+##https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=1903781&extension=ts&play_token=FkGcMcFStG
+
 #EXTINF:-1 tvg-id="AstroFootball" group-title="SPORTS | Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",Astro Football
 
 #EXTINF:-1 tvg-id="AstroBadminton" group-title="SPORTS | Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png",Astro Badminton
