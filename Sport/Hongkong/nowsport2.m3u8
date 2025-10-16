@@ -6,4 +6,6 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=554948&extension=ts&play_token=2kYhqkXVJo
+#http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=554948&extension=ts&play_token=2kYhqkXVJo
+http://23232.top:80/play/live.php?mac=A0:BB:3E:00:03:F4&stream=554948&extension=m3u8&play_token=
+#http://23232.top:80/play/live.php?mac=A0:BB:3E:00:03:F4&stream=1903744&extension=m3u8&play_token=
