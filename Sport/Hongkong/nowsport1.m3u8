@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=1920x1080,NAME="FHD"
 #http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:3D:53:F6&stream=554949&extension=ts&play_token=GHavgOu1KW
 #http://23232.top:80/play/live.php?mac=A0:BB:3E:00:03:F4&stream=554949&extension=m3u8&play_token=
