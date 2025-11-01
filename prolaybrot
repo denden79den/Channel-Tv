@@ -31,6 +31,10 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Na
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rtv.m3u8
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="TV | Nasional Indonesia",MENTARI TV
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/mentaritv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/vtv.jpg" group-title="TV | Nasional Indonesia",VTV
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="TV | Nasional Indonesia",TVONE
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/tvone.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="TV | Nasional Indonesia",KOMPAS TV
@@ -85,10 +89,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXTINF:-1 tvg-id="AntaraTV.id" tvg-name="Antara TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antaratv.jpg" group-title="TV | Nasional Indonesia",ANTARA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg", group-title="TV | Nasional Indonesia", SIN PO TV
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="TV | Nasional Indonesia", SIN PO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
-#https://spacetv.my.id/index.m3u8?id=19046&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/ktv.jpg" group-title="TV | Nasional Indonesia", KTV
 https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Stretchy/refs/heads/main/KTV.m3u8
