@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Na
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/metrotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="TV | Nasional Indonesia",INEWS
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/inews.m3u8
+#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/garudatv.jpg" group-title="TV | Nasional Indonesia",GARUDA TV
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/garudatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnnid.jpg" group-title="TV | Nasional Indonesia",CNN INDONESIA
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/cnnindonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnbcid.jpg" group-title="TV | Nasional Indonesia",CNBC INDONESIA
@@ -70,9 +72,6 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Na
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jaktv.jpg" group-title="TV | Nasional Indonesia",JAKTV
 https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Stretchy/refs/heads/main/JakTV.m3u8
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/nusantaratv.jpg" group-title="TV | Nasional Indonesia",NUSANTARA TV
-
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/garudatv.jpg" group-title="TV | Nasional Indonesia",GARUDA TV
-https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/garudatv.m3u8
 
 #EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/balitv.jpg" group-title="TV | Nasional Indonesia",BALI TV
 
